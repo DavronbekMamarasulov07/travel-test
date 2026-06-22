@@ -14,7 +14,7 @@ const Home = () => {
 
   return (
     <div>
-      <h2>Tur paketlari</h2>
+      <h2>Tur paketlari - Admin</h2>
 
       <div className="packages">
         {tourPackages?.slice(0, 4).map((tour) => (
