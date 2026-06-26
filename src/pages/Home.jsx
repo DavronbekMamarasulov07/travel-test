@@ -34,6 +34,10 @@ const Home = () => {
           </div>
         ))}
       </div>
+
+      <h2 className="bg-dark text-white">
+        Sirojiddin Egamberdiyev
+      </h2>
     </div>
   );
 }
