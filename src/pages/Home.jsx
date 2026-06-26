@@ -34,6 +34,7 @@ const Home = () => {
           </div>
         ))}
       </div>
+      <h2>Pulatjonov MuhammadAmin</h2>
     </div>
   );
 }
