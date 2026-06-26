@@ -37,6 +37,7 @@ const Home = () => {
       <h2>Shomuhammad Xudayberdiyev</h2>
       <h2>Usmonov Anvarbek</h2>
       <h2>jonibek ilxomov bu men</h2>
+      <h2>Loyiha yig'ildi</h2>
     </div>
   );
 }
